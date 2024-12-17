@@ -418,6 +418,10 @@ a:focus {
   padding-right: 45px;
 }
 
+.p-0{
+  padding: 50px;
+}
+
 .saving_section .box {
   padding-top: 45px;
   background-color: #e7d108;
@@ -620,6 +624,7 @@ a:focus {
   padding-right: 35px;
   padding: 45px 20px;
 }
+
 
 .contact_section input {
   width: 100%;
@@ -837,6 +842,8 @@ a:focus {
 .info_section .info_link-box a:hover span {
   color: #ffffff;
 }
+
+
 
 /* end info section */
 /* footer section*/
